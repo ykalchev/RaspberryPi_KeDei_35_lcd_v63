@@ -13,8 +13,8 @@
  // https://github.com/lzto/RaspberryPi_KeDei_35_lcd_v62
  //
  // V6.3
- // Modified by Yasen Kalchev for v6.3
- // https://github.com/lzto/RaspberryPi_KeDei_35_lcd_v62
+ // Modified by ykalchev for v6.3
+ // https://github.com/ykalchev/RaspberryPi_KeDei_35_lcd_v63
  //
  // WiringPi library version
  // gcc -o kedei_lcd_v63_pi_wiringpi kedei_lcd_v63_pi_wiringpi.c -lwiringPi

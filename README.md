@@ -1,8 +1,9 @@
 KeDei 6.3 SPI TFT Display Test Program
 
 ![RPI KeDei 6.3 Display](/Kedei_lcd_63_back.jpg)
+![RPI KeDei 6.3 Result](/Kedei_lcd_63_test.jpg)
 
-- based on Tong Zhang's code for v6.2
+### Based on Tong Zhang's code for v6.2
 https://github.com/lzto/RaspberryPi_KeDei_35_lcd_v62
 - added 6.3 display init logic
 
